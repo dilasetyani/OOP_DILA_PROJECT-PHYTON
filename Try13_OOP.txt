@@ -1,0 +1,5 @@
+daya=90
+while daya <100:
+    print("mengisi daya...posisi:",daya,"%")
+    daya += 2 # menambah daya setiap pitaran
+print("batrai penuh!")
